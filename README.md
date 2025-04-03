@@ -78,6 +78,16 @@ que utiliza uma linguagem semelhante ao Javascript.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="React"
@@ -144,8 +154,8 @@ que utiliza uma linguagem semelhante ao Javascript.
 />
 <img 
     align="left" 
-    alt="Mysql" 
-    title="Mysql"
+    alt="MicrosoftSqlServer" 
+    title="MicrosoftSqlServer"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
@@ -153,8 +163,8 @@ que utiliza uma linguagem semelhante ao Javascript.
 
 <img 
     align="left" 
-    alt="Mysql" 
-    title="Mysql"
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
@@ -162,8 +172,8 @@ que utiliza uma linguagem semelhante ao Javascript.
 
 <img 
     align="left" 
-    alt="Mysql" 
-    title="Mysql"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
@@ -171,8 +181,8 @@ que utiliza uma linguagem semelhante ao Javascript.
 
 <img 
     align="left" 
-    alt="Mysql" 
-    title="Mysql"
+    alt="PostgreSql" 
+    title="PostgreSql"
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
