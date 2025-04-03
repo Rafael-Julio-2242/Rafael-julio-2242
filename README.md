@@ -8,6 +8,8 @@ Atualmente estou trabalhando na Opyt, trabalhando como Desenvolvedor Fullstack c
 disso, atuava como desenvolvedor de jogos Indie usando a Engine Game Maker Studio,
 que utiliza uma linguagem semelhante ao Javascript.
 
+Durante meus aprendizados, eu testei projetos em diversas linguagens, pois acredito que o importante no ambito do desenvolvimento é entender de fato a lógica da programação, desenvolvimento e arquitetura, do que de fato focar em apenas uma linguagem nesse momento em que me encontro. Entendo os benefícios de se especializar em uma linguagem, contudo, também acredito ser importante entender de forma sólida aquilo que se aplica em todas as linguagens.
+
 <p align="left">
     <a href="https://github.com/Rafael-Julio-2242?tab=followers">
         <img 
