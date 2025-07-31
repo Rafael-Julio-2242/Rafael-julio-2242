@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Rafael Julio
+# Rafael Julio
 
 **`Desenvolvedor FullStack`**
 
