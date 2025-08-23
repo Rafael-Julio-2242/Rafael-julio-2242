@@ -8,7 +8,7 @@
 
 - Currently working as a Full-Stack Developer at **Opyt**, with nearly 2 years of experience building performant web apps.
 - Passionate about blockchain innovation—developing personal projects with Solidity and exploring decentralized applications (dApps).
-- Engineering Software student at **Instituto Federal de Goiás – Campus Inhumas**, expected to graduate in 2026.
+- Engineering Software student at **Federal Institute of Education, Science and Technology of Goiás – Inhumas Campus**, expected to graduate in 2026.
 
 ---
 
@@ -45,6 +45,11 @@
 </p>
 
 ---
+
+
+<br />
+<br />
+
 
 ### 🤖 Programming languages
 
@@ -102,6 +107,8 @@
 />
 
 <br />
+<br />
+
 
 ##  Tech Stack 
 
