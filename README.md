@@ -30,7 +30,7 @@
 
 ##  Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/rafael-julio-63708b299)
+- [LinkedIn](https://www.linkedin.com/in/rafael-julio-63708b299)
 - [Portfolio / GitHub Projects](https://github.com/Rafael-Julio-2242)
 - [Email](rafaeljuliodev2242@gmail.com)
 
