@@ -45,9 +45,6 @@
 </p>
 
 ---
-
-
-<br />
 <br />
 
 
@@ -130,6 +127,14 @@
 />
 <img 
     align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="Hardhat" 
     title="Hardhat"
     width="30px" 
@@ -153,6 +158,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<br />
 <br />
 
 ## Database Tecnologies
