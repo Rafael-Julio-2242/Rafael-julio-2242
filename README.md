@@ -1,30 +1,25 @@
 # Hi, I'm Rafael Julio 👋
 
-**Full-Stack Developer** from Goiás, Brazil—skilled in TypeScript, Node.js, Next.js, and now expanding into **Web3 & Ethereum smart contract development with Solidity**.
+**Full-Stack Developer** from Goiás, Brazil—skilled in Golang, TypeScript, Python, Node.js and Next.js**.
 
 ---
 
 ##  About Me
 
 - Currently working as a Full-Stack Developer at **Opyt**, with nearly 2 years of experience building performant web apps.
-- Passionate about blockchain innovation—developing personal projects with Solidity and exploring decentralized applications (dApps).
+- Currently creating more Projects in Golang, expanding my experience even further
+- Passionate about creating solutions to real life problems.
+- I Enjoy working with emerging tecnologies to solve problems, such as AI and Blockchain.
 - Engineering Software student at **Federal Institute of Education, Science and Technology of Goiás – Inhumas Campus**, expected to graduate in 2026.
 
 ---
-
-##  Projects (Work in Progress)
-
-- **Smart Contract Experiments** – Building Solidity-based contracts to explore token standards and decentralized logic.
-- **dApp Integration** – Creating sample apps with Next.js frontend and Solidity smart contracts for demonstration and learning.
-
-*(Detailed project descriptions coming soon; feel free to check back for updates!)_
 
 ---
 
 ##  Goals
 
-- Looking for Web3 developer opportunities to apply my full-stack skills in real-world blockchain projects.
-- Eager to contribute to Ethereum-based ecosystems through innovative and impactful applications.
+- Looking for a backend Golang Opportunity to solve real life problems using a language that enjoy working with
+- Enjoy the creation / maintaining of projects while also been actually productive
 
 ---
 
@@ -52,20 +47,13 @@
 
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Go"
+    title="Go" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
 />
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
+
 
 <img 
     align="left" 
@@ -78,29 +66,21 @@
 
 <img 
     align="left" 
-    alt="C++"
-    title="C++" 
+    alt="TypeScript"
+    title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 
 <img 
     align="left" 
-    alt="Solidity"
-    title="Solidity" 
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Go"
-    title="Go" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <br />
@@ -111,12 +91,13 @@
 
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
+    alt="Node.js" 
+    title="Node.js"
+    width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
+
 <img 
     align="left" 
     alt="Next.js" 
@@ -125,22 +106,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Hardhat" 
-    title="Hardhat"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Tailwind" 
@@ -149,6 +115,7 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
