@@ -53,10 +53,9 @@ Building high-performance software with a focus on systems programming in **Rust
 ## GitHub Stats
 
 <p>
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Julio-2242&theme=tokyonight&layout=compact&langs_count=9&hide_border=true&custom_title=Most+Used+Languages"
-  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rafael-Julio-2242&theme=tokyonight" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rafael-Julio-2242&theme=tokyonight" height="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafael-Julio-2242&theme=tokyonight" height="180"/>
 </p>
 
 ---
