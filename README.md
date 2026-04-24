@@ -10,7 +10,7 @@ Building high-performance software with a focus on systems programming in **Rust
 
 **🦀 [Surreal Financials](https://github.com/Rafael-Julio-2242)** — Personal finance system with a backend built entirely in Rust. A hands-on deep dive into systems programming and Rust's ecosystem.
 
-**🔐 Decentralized DRM Model** — My final thesis project. A production-grade, decentralized Digital Rights Management system — exploring how blockchain and systems design can rethink content ownership.
+**🔐 Decentralized DRM Model** — My final thesis project. A Decentralized Digital Rights Management system — exploring how blockchain and systems design can rethink content ownership.
 
 ---
 
